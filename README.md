@@ -1,17 +1,10 @@
 <div align="center">
-Hi I'M, LOKESHWARAN S
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:7b2ff7,100:00ff9f&height=220&section=header&text=LOKESHWARAN%20S&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20ML%20Engineer%20%7C%20GIS%20%26%20Cloud%20Innovator&descSize=15&descAlignY=60&descColor=c0e8ff&animation=fadeIn" width="100%"/>
+# 👨‍💻 LOKESHWARAN S
 
-</div>
+### Full-Stack Developer &nbsp;|&nbsp; AI & ML Engineer &nbsp;|&nbsp; GIS & Cloud Innovator
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=900&color=00D4FF&center=true&vCenter=true&width=750&height=60&lines=Full-Stack+Developer+%7C+AI+%26+ML+Engineer;MERN+Stack+%7C+Cloud+%7C+GIS+%26+Spatial+AI;NLP+%7C+Computer+Vision+%7C+Deep+Learning;Building+Real-World+Intelligent+Systems+%F0%9F%9A%80)](https://git.io/typing-svg)
-
-</div>
-
-<div align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=900&color=00D4FF&center=true&vCenter=true&width=750&height=60&lines=Full-Stack+Developer+%7C+AI+%26+ML+Engineer;MERN+Stack+%7C+Cloud+%7C+GIS+%26+Spatial+AI;NLP+%7C+Computer+Vision+%7C+Deep+Learning;Building+Real-World+Intelligent+Systems+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lokeshwaran-s-2284232a9)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lokeshwaran-tech)
@@ -174,6 +167,33 @@ class Lokeshwaran:
 
 ---
 
+## 🔧 Engineering Domains
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌊 GIS and Spatial AI</h3>
+      Drainage bottleneck detection, urban flood risk mapping, DEM analysis, flow accumulation modelling, terrain variation scoring, and heatmap generation for smart city infrastructure.
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 AI Systems</h3>
+      Reinforcement learning (SAC, DQN, PPO, RLHF), computer vision, object detection, NLP with transformers, MCQ generation, and intelligent scoring algorithms.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌐 Full-Stack Applications</h3>
+      MERN dashboards, secure JWT authentication, RBAC systems, SaaS analytics platforms, REST APIs, real-time data pipelines, and deployment-ready web applications.
+    </td>
+    <td width="50%" valign="top">
+      <h3>☁️ Cloud and AWS Services</h3>
+      AWS serverless architecture, DynamoDB pipelines, API Gateway, Lambda functions, Cognito security, Rekognition, Polly TTS, S3 storage, and CloudFront delivery.
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 📈 Contribution Graph
 
 <div align="center">
@@ -197,14 +217,12 @@ class Lokeshwaran:
 <div align="center">
 
 ### 💬 Soft Skills
-`Team Worker` &nbsp;•&nbsp; `Time Manager` &nbsp;•&nbsp; `Multi-Tasker` &nbsp;•&nbsp; `Adaptable`
 
-</div>
+`Team Worker` &nbsp;•&nbsp; `Time Manager` &nbsp;•&nbsp; `Multi-Tasker` &nbsp;•&nbsp; `Adaptable`
 
 ---
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9f,50:7b2ff7,100:00d4ff&height=130&section=footer&text=Let%27s%20build%20something%20amazing!&fontSize=22&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
+*Open to internships, collaborations, and exciting AI/ML projects!*
+*Feel free to reach out — lokeshwaran.sureshk@gmail.com*
 
 </div>
