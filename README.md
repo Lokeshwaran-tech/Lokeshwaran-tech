@@ -23,7 +23,7 @@ class Lokeshwaran:
     name         = "Lokeshwaran S"
     location     = "Chennai, India"
     college      = "SRIHER - B.Tech CSE (AI and ML), 2023-2027"
-    gpa          = "8.20 / 10 (Latest)  |  7.58 CGPA"
+    gpa          = "8.45 / 10 (Latest)  |  7.74 CGPA"
     roles        = ["Full-Stack Developer", "AI and ML Engineer", "GIS and Cloud Innovator"]
     tech         = ["MERN Stack", "Machine Learning", "NLP", "Computer Vision",
                     "Spatial AI", "AWS Cloud", "Reinforcement Learning"]
